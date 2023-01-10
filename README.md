@@ -1,3 +1,5 @@
 # BlueGuyJump
-Unity Enginellä toteutettu 2D platformer-peli. 
-Download from "Code" -> "Download Zip"
+Unity Enginellä toteutettu lyhyt 2D platformer-peli. 
+
+> Pelin voi ladata omalle koneelleen ja testata yläkulmasta:
+> Download from "Code" -> "Download Zip"
